@@ -1,0 +1,21 @@
+
+#main-title {
+  color: white;
+  background-color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+.content {
+  background-color: black;
+  color: yellow;
+}
+
+p {
+  color: green;
+}
+
+.news>article>h2 {
+  font-size: 32px;
+  background-color: blue;
+}
